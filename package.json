@@ -1,0 +1,24 @@
+{
+  "name": "Mail_NodeJS",
+  "version": "1.0.0",
+  "description": "This program focuses on sending email including from, to fields using nodemailer.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshi0806/Mail_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshi0806/Mail_NodeJS/issues"
+  },
+  "homepage": "https://github.com/harshi0806/Mail_NodeJS#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemailer": "^6.4.13"
+  }
+}

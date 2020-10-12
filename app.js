@@ -1,7 +1,7 @@
 /*************************************************************
  *
  * Execution       : default node cmd> node app.js
- * Purpose         : Mail sender using NodeJS
+ * Purpose         : Mail sender using Nodemailer
  *
  * @description    : Transporting mail with from, to, subject
  *                   fields, body using nodemailer and dotenv 
